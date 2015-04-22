@@ -1,0 +1,80 @@
+html {
+    zoom: 0.9; /* Old IE only */
+    -moz-transform: scale(0.95);
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+}
+
+
+.content {
+	margin-top: 50px;
+	
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty{
+    border-color:#D8D8D8;
+}
+.ng-valid.ng-dirty{
+    border-color:#F8EFFB;
+}
+
+body {
+	background-color:#E6E6E6;
+	}
+
+.cust-home {
+	font-size: 27px;
+	}
+.cust-profile{
+	font-size: 15px;
+	}
+	
+.tech-mean {
+	font-size: 15px;
+	padding: 8px 10px;
+	border-radius: 3px 3px 0 0;
+	box-shadow: 0px 0px 8px #000000;;
+
+}
+
+.Ben-mays {
+	font-size: 15px;
+	padding: 10px 30px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 8px #000000;
+}
+	
+
+.mission-love {
+	font-size: 15px;
+	padding: 9px 30px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 10px #000000;	
+}	
+
+.schedule-just {
+	font-size: 15px;
+	padding: 10px 30px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 8px #000000;
+}	
+
+
+
+.big-bg	{
+	background-color:#E6E6E6;
+	padding: 10px 10px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 15px #000000;
+}
+.darkestBG {
+	background-color:#E6E6E6;
+	padding: 10px 10px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 0px 0px 15px #000000;
+}
